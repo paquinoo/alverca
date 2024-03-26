@@ -1,0 +1,14 @@
+{
+  "name": "nome-do-seu-projeto",
+  "version": "1.0.0",
+  "description": "Descrição do seu projeto",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
